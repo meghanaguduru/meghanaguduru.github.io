@@ -7,9 +7,9 @@ tags: [documentation,sample]
 image: meghana_cmu.jpeg
 ---
 
-Hi there! I'm Meghana. I'm a Machine Learning Engineer with previous experience in Computer Vision, now expanding into NLP and Generative AI. I’m all about hacking and building cool, impactful solutions where AI meets the real world.
+Hi there! I'm Meghana. I’m a Machine Learning Engineer with a strong foundation in Computer Vision, now exploring the exciting worlds of NLP and Generative AI. I love bringing ideas to life at the intersection of AI/ML, Computer Vision, NLP, prototyping, software, and hardware—where tech meets the real world in meaningful ways.
 
-
+Always down to chat, brainstorm, or dive into a hackathon—let’s [connect](meghanaguduru@gmail.com) and make something awesome!
 
 
 
