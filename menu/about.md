@@ -2,7 +2,7 @@
 layout: page
 title: Welcome!
 permalink: /about
-image: meghana_cmu.jpeg
+image: meghana_oc6.jpeg
 ---
 
 I’ve spent the last 7 years as a Machine Learning and Computer Vision engineer at Meta, diving deep into AI, Computer Vision, and Virtual/Augmented Reality. I've had the thrill of contributing to groundbreaking products like Meta Quest 1, 2, 3, and Portal.
